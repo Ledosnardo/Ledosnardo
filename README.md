@@ -7,7 +7,7 @@
 <p>
   Hi 👋, I'm Leo! A passionate student of everything involving technology.
 
-  - 🧐 I'm currently studying Information Systems at UNIFOA - Volta Redonda, RJ  />
+  - 🧐 I'm currently studying Information Systems at UNIFOA - Volta Redonda, RJ 
 
   - 🔭 I am looking for my first job opportunity. My dream is to one day be an excellent full stack programmer.
 </p>
