@@ -52,7 +52,7 @@ Hi! I'm Leo, a passionate Full Stack Developer from Brazil 🇧🇷
 
 ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ledosnardo&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ledosnardo&theme=tokyonight)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa-rickstaa.vercel.app/api/top-langs/?username=ledosnardo&layout=compact&theme=tokyonight)
 
 ---
 
