@@ -2,6 +2,11 @@
   <h1>Hello World 👋</h1>
   <p><strong>Leonardo Atanasio | Full Stack Developer</strong></p>
 </div>
+--- 
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif" />
+</p>
 
 ---
 
@@ -46,7 +51,7 @@ Hi! I'm Leo, a passionate Full Stack Developer from Brazil 🇧🇷
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ledosnardo&show_icons=true&theme=gotham)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ledosnardo&show_icons=true&theme=gotham)
 
 ---
 
@@ -77,6 +82,3 @@ Hi! I'm Leo, a passionate Full Stack Developer from Brazil 🇧🇷
 
 ---
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif" />
-</p>
