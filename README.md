@@ -2,7 +2,6 @@
   <h1>Hello World 👋</h1>
   <p><strong>Leonardo Atanasio | Full Stack Developer</strong></p>
 </div>
---- 
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif" />
@@ -51,7 +50,12 @@ Hi! I'm Leo, a passionate Full Stack Developer from Brazil 🇧🇷
 
 ## 📊 GitHub Stats
 
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=ledosnardo&show_icons=true&theme=gotham)
+<div>
+  <a href="https://github.com/ledosnardo">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ledosnardo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ledosnardo&layout=compact&langs_count=16&theme=dracula"/>
+  </a>
+</div>
 
 ---
 
