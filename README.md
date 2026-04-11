@@ -51,7 +51,7 @@ Hi! I'm Leo, a passionate Full Stack Developer from Brazil 🇧🇷
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ledosnardo&show_icons=true&theme=gotham)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ledosnardo&show_icons=true&theme=tokyonight)
 
 ---
 
