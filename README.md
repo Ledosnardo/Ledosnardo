@@ -58,8 +58,8 @@ Hi! I'm Leo, a passionate Full Stack Developer from Brazil 🇧🇷
 
 ## 🌐 Portfolio
 
-- 💼 [Portfolio](https://github.com/Ledosnardo/portifolio)  
-  🔗 https://portifolio-sooty-five-59.vercel.app/#apresentation
+- 💼 [Portfolio]([https://github.com/Ledosnardo/portifolio](https://leonardoportifolio.vercel.app/#))  
+  🔗 [https://portifolio-sooty-five-59.vercel.app/#apresentation](https://leonardoportifolio.vercel.app/#)
 
 - 🎬 [Criticos QDV](https://github.com/Ledosnardo/criticos-quase-de-vdd)  
   🔗 https://criticos-quase-de-vdd.vercel.app/
